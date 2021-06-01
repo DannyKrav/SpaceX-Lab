@@ -1,0 +1,106 @@
+/* flex-box {
+  display: inline-block;
+  justify-content: space-between; */
+/* } */
+.SpaceX{
+  font-size: 45px;
+  margin: 15px 300px 10px;
+  color: white
+}
+
+.Falcon{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 80px;
+  margin: -120px 475px 30px;
+  color: white
+}
+
+.FalconHeavy{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 115px;
+  margin: -244px 550px 30px;
+  color: white
+}
+.Dragon{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 120px;
+  margin: -283px 685px 30px;
+  color: white
+}
+.StarShip{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 110px;
+  margin: -278px 800px 30px;
+  color: white
+}
+.HumanSpaceFlight{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 110px;
+  margin: -278px 900px 100px;
+  color: white
+
+}
+.RideShare{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 42px;
+  margin: -278px 1080px 100px;
+  color: white
+}
+.Shop{
+  font-weight: bold;
+  font-size: 16px;
+  padding: 118px;
+  margin: -278px 1650px 100px;
+  color: white
+}
+.CompletedMission{
+  font-weight: bold;
+  font-size: 30px;
+  padding: 118px;
+  margin: -120px 175px 100px;
+  color: white
+}
+.DragonReturnsToEarth{
+  font-weight: bold;
+  font-size: 30px;
+  padding: 118px;
+  margin: -320px 175px 100px;
+  color: white
+
+}
+.sidebar-image{
+  width: 60px;
+  height: 100%;
+  background-color: transparent;
+  background-image: url(menu.png);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: center;
+  cursor: pointer;
+}
+.text{
+  font-weight: bold;
+  font-size: 20px;
+  padding: 118px;
+  margin: -300px 175px 100px;
+  color: white
+}
+.boxed {
+  border: 1px solid white ;
+  font-size: 15px;
+  color: white;
+  margin-left: 15%;
+  margin-right: 95.70%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 112px;
+  border-width: 4px;
+  font-weight: bold;
+}
